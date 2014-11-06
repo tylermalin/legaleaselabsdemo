@@ -1,0 +1,63 @@
+{
+  "created_time": "2014-11-06T04:52:48-08:00",
+  "templates": [
+    
+    {
+      "date": "2013-12-12T00:00:00-08:00",
+      "title": "Term_sheet_for_convertible_note",
+      "url": "/term_sheet_for_convertible_note/",
+      "tags": [],
+      "authors": null
+    },
+    
+    {
+      "date": "2013-12-01T00:00:00-08:00",
+      "title": "Purchase Agreement for Convertible Note",
+      "url": "/purchase_agreement_for_convertible_note/",
+      "tags": ["entrepreneur","investor"],
+      "authors": ["legalease"]
+    },
+    
+    {
+      "date": "2013-11-14T00:00:00-08:00",
+      "title": "Consulting Agreement",
+      "url": "/consulting_agreement/",
+      "tags": ["consultant","entrepreneur"],
+      "authors": [{"name":"legalease","contact":"http://www.legaleaselabs.com/"}]
+    },
+    
+    {
+      "date": "2013-11-03T00:00:00-07:00",
+      "title": "Shareholders_agreement",
+      "url": "/shareholders_agreement/",
+      "tags": [],
+      "authors": null
+    },
+    
+    {
+      "date": "2013-11-03T00:00:00-07:00",
+      "title": "Share_transfer_instrument",
+      "url": "/share_transfer_instrument/",
+      "tags": [],
+      "authors": null
+    },
+    
+    {
+      "date": "2013-11-03T00:00:00-07:00",
+      "title": "LOANOUT CONVERSION LETTER",
+      "url": "/resolution_of_transfer_of_shares/",
+      "tags": ["entrepreneur","investor"],
+      "authors": [{"name":"legalease","contact":"info@legalease.com"}]
+    },
+    
+    {
+      "date": "2013-11-03T00:00:00-07:00",
+      "title": "Convertible Loan Agreement",
+      "url": "/convertible_loan_agreement/",
+      "tags": ["entrepreneur","investor"],
+      "authors": [{"name":"Bernard Leong","contact":"http://www.bernardleong.com/"},{"name":"Huifen Zheng","contact":"http://aicalico.com/"}]
+    },
+    
+    null
+  ]
+}
