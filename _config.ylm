@@ -3,8 +3,8 @@ lsi: false
 pygments: true
 source: .
 permalink: /:title/
-baseurl: "/"
-url: http://legaleaselabs.com
+baseurl: "/tylermalin/legaleaselabsdemo"
+url: http://tylermalin.github.io/legaleaselabsdemo
 exclude:
 - ".*"
 - "*.md"
